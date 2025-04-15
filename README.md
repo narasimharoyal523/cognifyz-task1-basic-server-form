@@ -28,19 +28,17 @@ task1-HTML-server/
 
 ## Setup Instructions
 1. Clone the repository:
-```bash
-git clone []
-cd task1-HTML-server
+   ```bash
+   git clone [https://github.com/narasimharoyal523/cognifyz-task1-basic-server-form.git]
+   cd task1-HTML-server
 
-Install dependencies:
+2. Install dependencies:
+   ```bash
+   npm install express ejs
 
-```bash
-npm install express ejs
+3. Run the server:
+   ```bash
+   node server.js
 
-Run the server:
-
-```bash
-node server.js
-
-Access the application:
+4. Access the application:
 Open http://localhost:3000 in your browser.
